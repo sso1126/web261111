@@ -20,11 +20,11 @@ const movies = [
     },
 
     {
-        title: "흑집사: 북 오브 더 아틀란틱",
-        year: 2017,
-        date: "2017-01-21",
-        rating: 7.5,
-        poster: "/fBhjPNLxRrcFLNeaT6ZetqUzJit.jpg"
+        title: "목소리의 형태",
+        year: 2016,
+        date: "2016-09-17",
+        rating: 8.3,
+        poster: "/aUF10sSW5OVfpK6Ma3vJYd3Tp3A.jpg"
     },
 
     {
@@ -44,10 +44,10 @@ const movies = [
     },
 
     {
-        title: "극장판 암살교실 모두의 시간",
-        year: 2026,
-        date: "2026-03-20",
-        rating: 7.7,
-        poster: "/9cfIBBeopYwpK25c1DytwIQc2MA.jpg"
+        title: "하울의 움직이는 성",
+        year: 2004,
+        date: "2004-09-09",
+        rating: 8.3,
+        poster: "/xiz6TiSduvR1U3VLfWVlBEdT9fO.jpg"
     }
 ];
